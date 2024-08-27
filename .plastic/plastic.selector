@@ -1,0 +1,4 @@
+repository "UIMvc@daizhidemaozi@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
